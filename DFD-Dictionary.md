@@ -4,7 +4,7 @@ The definitions of all the entities, processes, databases, and data flows used i
 
 ## ENTITIES
 
-*Developer:* An individual responsible for coding main software packages and preparing for the license scan
+**Developer:** An individual responsible for coding main software packages and preparing for the license scan
 
 Manager: An advisor for all software packages
 

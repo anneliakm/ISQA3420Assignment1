@@ -41,17 +41,13 @@ The definitions of all the entities, processes, databases, and data flows used i
 
 **Software Package License and Vulnerbility Results:** License information and known or documented vulnerbility issues of the software package
 
-**Software Package Component:** 
+**OSS Software Components:** Information about the OSS software components
 
-**Software Package Component Request:**
+**OSS Software Components Request:** Stored in the OSS Software Components Database
 
-**OSS Software Components:**
+**OSS Software Component Violations:** Documented violations in the OSS software component
 
-**OSS Software Components Request:**
+**Confirm Updates on OSS Policy Docs:** Confirmation of violations done by Manager
 
-**OSS Software Component Violations:**
-
-**Confirm Updates on OSS Policy Docs:**
-
-**Update OSS Policy Docs:**
+**Update OSS Policy Docs:** Modified OSS policy documents done by Manager
 

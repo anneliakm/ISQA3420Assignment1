@@ -8,6 +8,18 @@ Developer: An individual responsible for coding main software packages and prepa
 
 Manager: An advisor for all software packages
 
+## PROCESSES
+
+Managing Software Package for License Scanning:
+
+Scan Licenses:
+
+Retrieve OSS Software Components:
+
+Violations in Policies:
+
+Modify OSS Policy Documents:
+
 ## DATABASES
 
 NIST Vulnerbility Database: Contains any vulnerbilities in the software package

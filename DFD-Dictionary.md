@@ -19,4 +19,27 @@ OSS Policy Documents Database:
 
 ## DATAFLOWS
 
+Software Package:
+
+Software Package Name:
+
+Known Vulnerbility Issues:
+
+Software Package License Results: 
+
+Software Package License and Vulnerbility Results:
+
+Software Package Component:
+
+Software Package Component Request:
+
+OSS Software Components:
+
+OSS Software Components Request:
+
+OSS Software Component Violations:
+
+Confirm Updates on OSS Policy Docs:
+
+Update OSS Policy Docs:
 

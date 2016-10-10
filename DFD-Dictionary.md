@@ -10,15 +10,15 @@ Manager: An advisor for all software packages
 
 ## PROCESSES
 
-Managing Software Package for License Scanning:
+Managing Software Package for License Scanning: A process that checks for OSS files in the software package
 
-Scan Licenses:
+Scan Licenses: A process that scans for licenses that can be found
 
-Retrieve OSS Software Components:
+Retrieve OSS Software Components: A process that 
 
-Violations in Policies:
+Violations in Policies: A process that 
 
-Modify OSS Policy Documents:
+Modify OSS Policy Documents: A process that 
 
 ## DATABASES
 
@@ -31,17 +31,17 @@ OSS Policy Documents Database:
 
 ## DATAFLOWS
 
-Software Package:
+Software Package: Collection of software files
 
-Software Package Name:
+Software Package Name: Name of the software package
 
-Known Vulnerbility Issues:
+Known Vulnerbility Issues: known vulnerbility issues of the software package
 
-Software Package License Results: 
+Software Package License Results: License information for the software package
 
-Software Package License and Vulnerbility Results:
+Software Package License and Vulnerbility Results: license information and known or documented vulnerbility issues of the software package
 
-Software Package Component:
+Software Package Component: 
 
 Software Package Component Request:
 

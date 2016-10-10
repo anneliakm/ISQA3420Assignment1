@@ -14,11 +14,11 @@ The definitions of all the entities, processes, databases, and data flows used i
 
 **Scan Licenses:** A process that scans for licenses that can be found
 
-**Retrieve OSS Software Components:** A process that 
+**Retrieve OSS Software Components:** A process that retrieves OSS Components based on requests from Manager and Developer
 
-**Violations in Policies:** A process that 
+**Violations in Policies:** A process that documents violations and sends them to the Manager
 
-**Modify OSS Policy Documents:** A process that 
+**Modify OSS Policy Documents:** A process that allows the Manager to update the documents
 
 ## DATABASES
 

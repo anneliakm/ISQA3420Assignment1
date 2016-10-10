@@ -22,11 +22,11 @@ The definitions of all the entities, processes, databases, and data flows used i
 
 ## DATABASES
 
-**NIST Vulnerbility Database:** Contains any vulnerbilities in the software package
+**NIST Vulnerbility Database:** Database that contains any vulnerbilities in the software package
 
-**OSS Components Database:** 
+**OSS Components Database:** Database that stores the software package information
 
-**OSS Policy Documents Database:** 
+**OSS Policy Documents Database:** Database that contains the OSS policy documents
 
 
 ## DATAFLOWS

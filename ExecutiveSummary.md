@@ -13,5 +13,5 @@ The system is created with expected changes occuring as needed. Communication fr
 
 **SOCIAL RESPONSIBILITY:** *Potential open source communities that would be engaged in this project*
 
-As stated before, communication makes OSS possible. The manager and developer(s) are expected to follow all guidelines and expected vulnerbilities when collaborating on the project. This allows modifications on OSS to be made easily.
+As stated before, communication makes OSS possible. The manager and developer(s) are expected to follow all guidelines and expected vulnerabilities when collaborating on the project. This allows modifications on OSS to be made easily.
 

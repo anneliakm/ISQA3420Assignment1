@@ -23,7 +23,7 @@
 
 **Trigger:** Corporate Manager identifies project information to which license and vulnerability information is provided.
 
-# Scan Software Packages for License and Vulnerabilities
+# Title: Scan Software Packages for License and Vulnerabilities
 
 **Primary Actor:** Developer
 
@@ -46,5 +46,7 @@
 **Failed End Conditions:** Developer recieves incorrect information about the license and vulnerability
 
 **Trigger:** Developer provides a software package ready for management and uploading
+
+# Title: Modification of OSS Policy Documents
 
 

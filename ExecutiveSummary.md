@@ -1,5 +1,5 @@
 # Executive Summary
 
-*Defined description of this project
+*Defined description of this project*
 
 

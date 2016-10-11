@@ -16,3 +16,11 @@
 
 + Proper project information has been provided
 + Licenses and vulnerbilities are the most current versions
+
+**Main Success Scenario:** The corporate manager recieves accurate license and vulnerability information for the requested project packages 
+
+**Failed End Conditions**: Corporate manager receives inaccurate or invalid license and vulnerability information for the requested project packages
+
+**Trigger:** Corporate Manager identifies project information to which license and vulnerability information is provided.
+
+

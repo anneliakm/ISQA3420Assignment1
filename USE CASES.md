@@ -67,6 +67,6 @@
 
 **Failed End Conditions:** Manager is unable to modify or submit OSS Policy Documents to the database
 
-**Trigger:** Manager recognizes a modification necessary 
+**Trigger:** Manager recognizes a necessary modification
 
 

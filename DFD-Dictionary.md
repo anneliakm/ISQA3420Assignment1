@@ -1,6 +1,6 @@
 # Data Flow Diagram Dictionary
 
-The definitions of all the entities, processes, databases, and data flows used in the DFD.
+*The definitions of all the entities, processes, databases, and data flows used in the DFD.*
 
 ## ENTITIES
 

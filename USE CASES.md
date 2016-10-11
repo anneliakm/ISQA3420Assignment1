@@ -8,14 +8,14 @@
 
 **Stakeholders:**
 
-+ Corporate Manager: To recieve clear and relevant project information including Open Source Software license and vulnerbility information
++ Corporate Manager: To recieve clear and relevant project information including Open Source Software license and vulnerability information
 
 + Corporate Developer: To provide the relevant software package information
 
 **Preconditions:**
 
 + Proper project information has been provided
-+ Licenses and vulnerbilities are the most current versions
++ Licenses and vulnerabilities are the most current versions
 
 **Main Success Scenario:** The corporate manager recieves accurate license and vulnerability information for the requested project packages 
 

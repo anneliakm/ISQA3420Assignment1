@@ -23,4 +23,28 @@
 
 **Trigger:** Corporate Manager identifies project information to which license and vulnerability information is provided.
 
+# Scan Software Packages for License and Vulnerabilities
+
+**Primary Actor:** Developer
+
+**Goal in Context:** Developer scans software packages for license information and vulnerabilities
+
+**Stakeholders**:
+
++ Corporate Manager: To recieve clear and relevant project information
+
++ Corporate Developer: To provide software package license information and vulnerabilities
+
+**Preconditions:**
+
++ Software packages are managed correctly for license scanning
+
++ Scanners are connected to the proper databases to file licenses and vulnerabilities
+
+**Main Success Scenario**: License and vulnerability information is accurate and clear for the software package
+
+**Failed End Conditions:** Developer recieves incorrect information about the license and vulnerability
+
+**Trigger:** Developer provides a software package ready for management and uploading
+
 
